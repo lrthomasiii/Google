@@ -26,3 +26,19 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+heroku: http://morning-caverns-3806.herokuapp.com/
+I am not sure why my page looks weird when it is pulled up on heroku.
+
+Project Ideas:
+
+1. PennFriends.com. PennFriends would be similar to match.com but for finding friends at Penn. It can be hard
+meeting new people that have similar interests while at Penn. PennFriends would take a questionnaire and match
+you with people of similar interests.
+
+2. SyllabusCentral. This app would help students organize all of their academic and non-academic responsibilities.
+Students would be able to upload class schedules, syllabi, and other course documents.
+
+3. CollegeLife. This would be an app to connect students in all aspects of college life. It would be able to track
+things like parties, study groups, and sporting events. It could also have an interactive chat so students could study
+together online or communicate about events. 
